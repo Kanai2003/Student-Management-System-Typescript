@@ -34,7 +34,7 @@ Visit Postman Api Documentation to explore all apis
 ```
 PORT=4000
 
-MONGODB_URI=mongodb+srv://kanailalmanna2003:Kanai2003@tghtech.wwrlee5.mongodb.net
+MONGODB_URI=
 
 CORS_ORIGIN=*
 
